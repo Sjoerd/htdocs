@@ -1,0 +1,90 @@
+.center {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+.centerblock {
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.head-link {
+  text-decoration: none !important;
+  color: #000;
+}
+.head-link :first-letter {
+    text-transform: uppercase;
+}
+.notop {
+  margin-top: 0px !important;
+}
+.nobottom {
+  margin-bottom: 0px !important;
+  padding-top: 0px !important;
+}
+.bg-facebook {
+  background-color: #3b5998;
+  color: #fff;
+}
+
+.btn:hover{
+  text-decoration: none !important;
+  color: #fff;
+}
+
+.bg-twitter {
+  background-color: #4099FF;
+  color: #fff;
+}
+.bg-instagram {
+  background-color: #fb3958;
+  color: #fff;
+}
+.thumbnail {
+  width: calc(100% + 2.5rem);
+  max-height: 300px;
+  margin: 10px -1.25rem 15px -1.25rem;
+}
+.shadow {
+  -webkit-box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.28);
+  -moz-box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.28);
+   box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.28);
+}
+.dot {
+  style: dotted;
+  border-top:1px dotted #000;
+  margin-bottom: 1px !important;
+}
+.title {
+  margin-bottom: 1px;
+}
+.date {
+  color: #777;
+  margin-bottom: 1px;
+}
+.noborder {
+  border-radius: 0px !important;
+  border: none;
+}
+body {
+  height: 100%;
+  background: url('http://kasperdolk.nl/pattern.png');
+}
+.1pxradius {
+  border-radius: 1px !important;
+}
+.noradius {
+  border-radius: 0px !important;
+}
+.bg-white {
+  background-color: #fff;
+  border-radius: 0px !important;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+   box-shadow: 0 8px 6px -6px #999;
+
+}
+.bottom {
+  margin-bottom: 80px;
+}
